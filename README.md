@@ -1,4 +1,4 @@
-# Job Portal Microservices Architecture (Spring Boot)
+# Job Portal – Spring Boot Microservices
 
 A microservices-based Job Portal backend application built using Spring Boot.  
 The system is divided into independent services for Job, Company, and Review management, following the database-per-service pattern with centralized configuration using Spring Cloud Config Server.
